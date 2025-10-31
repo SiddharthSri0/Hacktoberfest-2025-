@@ -3,7 +3,7 @@
 ![Hacktoberfest 2025](https://img.shields.io/badge/Hacktoberfest-2025-orange.svg)
 ![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-This repository contains Python scripts designed to automate common tasks. It is beginner-friendly and open for contributions during Hacktoberfest 2025.
+This repository contains Python scripts designed to automate common tasks. It is beginner-friendly and open for contributions during Hacktoberfest-2025.
 
 ## Table of Contents
 
